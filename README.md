@@ -1,5 +1,7 @@
 # MPTv2-Mod-RE
 
+**This mod for Mindustry < V7 >.**
+
 About MPTv2.
 You can choose java or hjson mod.
 
