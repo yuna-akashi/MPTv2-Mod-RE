@@ -2,7 +2,7 @@
 About MPTv2.
 You can choose java or hjson mod.
 
-##Repo
+## Repo
 
 Java Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-java "Java Mod"),
 
