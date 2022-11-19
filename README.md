@@ -15,4 +15,4 @@ HJSON Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-hjson "HJSON Mod")
 
 ## Discord Server
 
-[Join Server](https://discord.gg/2xtk9uGgRc)
+[Join Server](https://discord.gg/2xtk9uGgRc) *Mein language is Japanese.*
