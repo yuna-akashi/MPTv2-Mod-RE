@@ -8,6 +8,6 @@ Java Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-java "Java Mod"),
 
 HJSON Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-hjson "HJSON Mod")
 
-### Discord Server
+## Discord Server
 
 [Join Server](https://discord.gg/2xtk9uGgRc)
