@@ -5,7 +5,7 @@ You can choose java or hjson mod.
 
 ## Repo
 
-Java Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-java "Java Mod"), (Not ready yet.)
+Java Mod: [Link](https://github.com/Yunatexya/MPTv2ModRE-java "Java Mod") (Not ready yet.)
 
 *This mod only work at Android and Desctop.*
 
