@@ -7,11 +7,11 @@ You can choose java or hjson mod./JavaかHisonのタイプを選べます。
 
 ## Repo / レポジトリ
 
-Java Mod: [MPTv2 RE](https://github.com/Yunatexya/MPTv2ModRE "Java Mod") (Not ready yet.)
+Java Mod: [MPTv2 RE](https://github.com/Yunatexya/MPTv2ModRE "Java Mod") (Beta is released.)
 
 *This mod only work at Android and Desktop. / PC版とAndroid版以外は対応していません。*
 
-HJSON Mod: [MPTv2](https://github.com/Yunatexya/MPTv2Mod "HJSON Mod")
+HJSON Mod: [MPTv2](https://github.com/Yunatexya/MPTv2Mod "HJSON Mod") (Not ready yet.)
 
 *This mod can use at iOS, Android and Desktop. / このModはiOSやAndroid、PC版で利用できます。*
 
