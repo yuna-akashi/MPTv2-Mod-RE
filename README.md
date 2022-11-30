@@ -1,6 +1,6 @@
 # MPTv2-Mod-RE
 
-**This mod for Mindustry < V7 >. / Mindustry < V7 >用のMod**
+**This mod for Mindustry&lt;V7>. / Mindustry&lt;V7>用のMod**
 
 Tell you about MPTv2.
 You can choose java or hjson mod./JavaかHisonの二種類から選べます。
