@@ -7,7 +7,7 @@ You can choose java or hjson mod./JavaかHisonの二種類から選べます。
 
 ## Repo / レポジトリ
 
-###Java MODは最低3つに変更されます。
+### Java MODは最低3つに変更されます。
 
 Java Mod: [MPTv2 RE](https://github.com/Yunatexya/MPTv2ModRE "Java Mod") (Beta is released.)
 
