@@ -7,7 +7,13 @@ You can choose java or hjson mod./JavaかHisonの二種類から選べます。
 
 ## Repo / レポジトリ
 
+###Java MODは最低3つに変更されます。
+
 Java Mod: [MPTv2 RE](https://github.com/Yunatexya/MPTv2ModRE "Java Mod") (Beta is released.)
+
+Java Mod: [MPTv2 Erekir](https://github.com/Yunatexya/MPTv2Erekir "PluginMod") (作成中.)
+
+Java Mod: [MPTv2 Antimatter](https://github.com/Yunatexya/MPTv2Antimatter "PluginMod") (作成中.)
 
 *This mod only work at Android and Desktop. / PC版とAndroid版以外は対応していません。*
 
