@@ -7,7 +7,7 @@ You can choose java or hjson mod./JavaかHisonの二種類から選べます。
 
 ## Repo / レポジトリ
 
-### Java MODは最低3つに変更されます。
+### *Javaの仕様により、簡略化もしくは複数に分けます*
 
 Java Mod: 
 
