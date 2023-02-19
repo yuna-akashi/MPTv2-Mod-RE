@@ -11,7 +11,7 @@ Java Mod:
 
 [MPTv2 RE](https://github.com/Yunatexya/MPTv2ModRE "Java Mod") (Beta is released.)
 
-*This mod only work at Desktop. / PC版以外は対応していません。*
+*This mod only work at PC and Android. / PC版以外は対応していません。*
 
 ~HJSON Mod:~
 
