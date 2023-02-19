@@ -13,7 +13,7 @@ Java Mod:
 
 *This mod only work at Desktop. / PC版以外は対応していません。*
 
-HJSON Mod:
+~HJSON Mod:~
 
 ~[MPTv2](https://github.com/Yunatexya/MPTv2Mod "HJSON Mod") (Not ready yet.)~
 
