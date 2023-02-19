@@ -15,9 +15,9 @@ Java Mod:
 
 HJSON Mod:
 
-~[MPTv2](https://github.com/Yunatexya/MPTv2Mod "HJSON Mod") (Not ready yet.)
+~[MPTv2](https://github.com/Yunatexya/MPTv2Mod "HJSON Mod") (Not ready yet.)~
 
-*This mod can use at iOS, Android and Desktop. / iOSやAndroid、PC版で利用できます。*~
+~*This mod can use at iOS, Android and Desktop. / iOSやAndroid、PC版で利用できます。*~
 
 ## About MPTv2 / MPTv2 について
 
