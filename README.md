@@ -1,5 +1,7 @@
 # MPTv2-Mod-RE
 
+#アーカイブ済み
+
 **This mod for Mindustry&lt;V7>. / Mindustry&lt;V7>用のMod**
 
 Tell you about MPTv2.
